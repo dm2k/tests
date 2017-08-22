@@ -7,6 +7,9 @@
 int main()
 {
 	std::cout << "Ololo" << std::endl;
+	for (int i = 0; i < 1000; ++i) {
+		std::cout << "yarrrrrr ";
+	}
 	getchar();
     return 0;
 
