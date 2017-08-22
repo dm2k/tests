@@ -6,6 +6,9 @@
 
 int main()
 {
+	std::cout << "Ololo" << std::endl;
+	getchar();
     return 0;
+
 }
 
